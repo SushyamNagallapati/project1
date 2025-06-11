@@ -1,0 +1,15 @@
+# Ignore cache and build folders
+.cache/
+dist/
+node_modules/
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+# Ignore environment files (if any)
+.env
+.env.local
+
+# Ignore specific files if needed
+playground.html
